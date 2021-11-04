@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'python从爬虫到入门',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  tagline: '稳健IT社教程',
+  url: 'https://docs.xiao-gy.top',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -53,8 +53,8 @@ const config = {
             label: '首页',
           },
           {
-            href: 'https://gitee.com/xiao-gy/wenjian_python',
-            label: 'Gitee',
+            href: 'https://github.com/xiao-gy/wenjian_python',
+            label: 'Github',
             position: 'right',
           },
         ],
