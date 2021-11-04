@@ -26,7 +26,7 @@ const config = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/xiao-gy/wenjian_python/edit/main/website/',
+          editUrl: 'https://github.com/xiao-gy/wenjian_python/edit/master/',
         },
         blog: false,
         theme: {
