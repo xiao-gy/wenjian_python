@@ -1,6 +1,6 @@
 ---
 id: first
-title: 学考入门
+title: 写在之前
 sidebar_position: 1
 ---
 
