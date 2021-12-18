@@ -1,5 +1,6 @@
 ---
-id: first
+id: part0_first
+title: 学考入门
 ---
 
 # 动手之前
