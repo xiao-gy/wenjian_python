@@ -1,6 +1,7 @@
 ---
-id: part0_first
+id: first
 title: 学考入门
+sidebar_position: 1
 ---
 
 # 动手之前
