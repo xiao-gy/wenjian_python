@@ -11,7 +11,7 @@ sidebar_position: 3
 
 ## 代码介绍
 
-```python
+``` python
 if 条件语句1 :
     #记得打冒号和缩进
 elif 条件语句2 :
@@ -25,7 +25,7 @@ else:
 
 符合python规范的条件语句大概有以下几种
 
-```python
+``` python
 a == b #与赋值语句不同，判断语句需要打两个等于号
 a < b #大于小于号可以单用，也可以组合等于号来表示大于等于/小于等于
 a >= b
@@ -43,7 +43,7 @@ a ＞ b
 
 - 多条语句可以连接起来，如：
 
-```python
+``` python
 if a == b and b == c: #and的前后都要成立才会执行
     print("a=b=c")
 elif a == b or b == c or a == c: #or的左右成立一个的话，整体都是成立的
