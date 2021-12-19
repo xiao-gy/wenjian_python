@@ -1,6 +1,7 @@
 ---
 id: home
 slug: /
+sidebar_position: 1
 ---
 
 # 简要介绍
